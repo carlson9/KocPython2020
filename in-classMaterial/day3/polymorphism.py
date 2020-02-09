@@ -33,9 +33,9 @@ animals = [Cat('Foo'),
            Fish('nemo')]
  
 # for animal in animals:
-#   print animal.name + ': ' + animal.talk()
+#   print(animal.name + ': ' + animal.talk())
   
 # f = Fish("foo")
-# print "Hi, " + str(f)
+# print("Hi, " + str(f))
 
 
