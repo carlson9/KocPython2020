@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="HTML+RDFa 1.1">
+  <head>
+    <meta charset="utf-8" />
+<link rel="apple-touch-icon" href="/sites/all/themes/awesomesauce/images/iOS-114.png" sizes="114x114" />
+<link rel="apple-touch-icon" href="/sites/all/themes/awesomesauce/images/iOS-72.png" sizes="72x72" />
+<link rel="shortcut icon" href="https://polisci.wustl.edu/sites/polisci.wustl.edu/themes/sitetheme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" href="/sites/all/themes/awesomesauce/images/iOS-57.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<!--[if lt IE 9]><script type="text/javascript" src="/sites/all/themes/innovate/scripts/html5.js?n96rfw"></script><![endif]-->    <title>Department of Political Science | Washington University in St. Louis</title>
+    <link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_OOi-hABmd-SMR1h8-obE-0sOAEBXpoLcCXmeWHEFYrA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_MMTY1ADtaqjUhxD3xSrUrT9yEfoyoVbmkdVw48KeYMg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_DWPYTaZP2gGao6omeTINDslfzQowIJrrp1ASKETTOGk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_TcoAtVf15vJtjFjzFWhK9VXLceW8r3ZfCRavLyghXuw.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_OF-ro9xGfLiKzLxUFuAhYPuYCadII2_jbt22RGCQ6WY.css" media="handheld, only screen and (max-width: 767px)" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_NbnqFpRdg8MhD-MbJZmXr3i7Cl2-RxRSbC4Im43WfDY.css" media="handheld, only screen and (max-device-width: 480px)" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_Tuq8NnQU2u2oOjPX8LEIDKpgjiCBdsR-COOYw_xpfMY.css" media="print" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_KHVZdciTQ9NLR5qC9yFi34NDUDVt77RAYvQyNmD6VF4.css" media="all" />
+<![endif]-->
+
+<!--[if lte IE 6]>
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_vg4P01_bmwV3jkBwpK1iWInc9pd4boheygeNZUxMrI0.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=OFL+Sorts+Mill+Goudy+TT:400,400italic&amp;v2&amp;n96rfw" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_eldjbgj0q42dWtv2HiTgnPqsSHWrzZPQWl3Z0WGCEwM.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://polisci.wustl.edu/files/polisci/css/css_UvUJ0GA8U6GFYLKWKoFxAnP06fEwumPTXWF6fGmmwyY.css" media="handheld, only screen and (max-device-width: 480px)" />
+  </head>
+
+  <body class="html front not-logged-in no-sidebars page-home page-panels with-artsci-branding with-department-branding with-artsci-logos" >
+    <div id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+        
+<div id="page-wrapper" class="page">
+  <div id="page">
+    <header id="header" role="banner">
+      <div class="pagewidth clearfix">
+        <div class="top-header">
+                       <ul id="school-and-university"><li class="artsci-logo first"><a href="http://artsci.wustl.edu" title="Arts &amp; Sciences" alt="Arts &amp;amp; Sciences"><span class="element-invisible">Arts &amp; Sciences</span></a></li>
+<li class="wustl-logo last"><a href="http://wustl.edu" title="Washington University in St. Louis" alt="Washington University in St. Louis"><span class="element-invisible">Washington University in St. Louis</span></a></li>
+</ul>                                <nav id="secondary-menu" role="navigation"><div class="container-inline"><div class="form-item form-type-select">
+ <select class="ctools-jump-menu-select ctools-jump-menu-change form-select"><option value="">Quick links</option><option value="http://www.wustl.edu/directory/">WUSTL Directory</option><option value="https://acadinfo.wustl.edu/WebFAC/">WebFAC</option><option value="https://acadinfo.wustl.edu/">WebSTAC</option></select>
+</div>
+<input class="ctools-jump-menu-button ctools-jump-menu-hide form-submit" type="submit" name="op" value="Go" /></div></nav>
+                      <section class="region region-header">
+    <div id="block-search-form" class="block block-search">
+  <div class="panel-inner block-inner">
+
+              
+    <div class="content clearfix">
+      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-searchfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Site Search" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="GO" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-rA6N9oNaGkuOwOxY8d0zC07TMCNPxMo3LJOq5cBHgPM" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div> <!-- /.content -->
+
+  </div>
+</div> <!-- /.block -->
+  </section>
+        </div>
+
+        <div class="bottom-header">
+                  <a href="/" title="Home" rel="home" id="logo">
+                      </a>
+                            <img id="print-logo" src="/sites/all/themes/awesomesauce/images/artsci-sprites-print.png" alt="Home" />
+        
+                  <hgroup id="name-and-slogan">
+                                             <h1 id="site-name">
+                     <a href="/" title="Home" rel="home"><span>Department of Political Science</span></a>
+                  </h1>
+                           
+                      </hgroup> <!-- /#name-and-slogan -->
+                </div>
+        
+                  <nav id="navbar" role="navigation">
+                            <section class="region region-menu-bar">
+    <section id="block-menu-block-1" class="block block-menu-block">
+  <div class="panel-inner block-inner">
+
+              <h2>Main Menu</h2>
+          
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-467"><a href="/faculty">The Directory</a></li>
+<li class="leaf has-children menu-mlid-471"><a href="/undergraduate">Undergraduate</a></li>
+<li class="leaf has-children menu-mlid-472"><a href="/graduate">Graduate</a></li>
+<li class="leaf menu-mlid-473"><a href="/hiring-phd">Hiring a Ph.D.</a></li>
+<li class="leaf has-children menu-mlid-468"><a href="/events">Events</a></li>
+<li class="leaf has-children menu-mlid-469"><a href="/news">News</a></li>
+<li class="last leaf has-children menu-mlid-474"><a href="/slamm">SLAMM!</a></li>
+</ul></div>
+    </div> <!-- /.content -->
+
+  </div>
+</section> <!-- /.block -->
+  </section>
+                      </nav> <!-- /nav -->
+              </div>
+    </header> <!-- /header -->
+
+    <div id="main" role="main">
+      <div class="pagewidth clearfix">
+    
+                
+        <div id="content" class="clearfix">
+                                                              <a id="main-content" class="element-invisible element-focusable"></a>
+            <section class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    <div class="panel-display captivate container_16" >
+
+  
+    <div class="panel-row panel-row-resize panel-row-11-5 clearfix">
+    <div class="panel-elevencol-top-left panel-panel panel-col panel-col-first grid_11">
+      <div class="panel-content-color">
+        <div class="pane-no-padding"><div  class="panel-pane pane-views-panes pane-primary-feature-slideshow-panel-pane-primary-slideshow-num">
+  <div class="panel-inner pane-inner">
+  
+      
+              
+      
+    <div class="pane-content">
+       
+        <div class="view view-primary-feature-slideshow view-id-primary_feature_slideshow view-display-id-panel_pane_primary_slideshow_num view-dom-id-2fc55dcf12f36ff7867aee6eeb962c93">
+        
+  
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+      <div class="views-slideshow-controls-top clearfix">
+      <div id="widget_pager_top_primary_feature_slideshow-panel_pane_primary_slideshow_num" class="views-slideshow-pager-fields widget_pager widget_pager_top views_slideshow_pager_field">
+  <div id="views_slideshow_pager_field_item_top_primary_feature_slideshow-panel_pane_primary_slideshow_num_0" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views_slideshow_active_pager_field_item views-row-odd">
+  <div class="views-field-position">
+    <div class="views-content-position">
+    1  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_top_primary_feature_slideshow-panel_pane_primary_slideshow_num_1" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even">
+  <div class="views-field-position">
+    <div class="views-content-position">
+    2  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_top_primary_feature_slideshow-panel_pane_primary_slideshow_num_2" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-odd">
+  <div class="views-field-position">
+    <div class="views-content-position">
+    3  </div>
+</div>
+</div>
+<div id="views_slideshow_pager_field_item_top_primary_feature_slideshow-panel_pane_primary_slideshow_num_3" class="views-slideshow-pager-field-item views_slideshow_pager_field_item views-row-even">
+  <div class="views-field-position">
+    <div class="views-content-position">
+    4  </div>
+</div>
+</div>
+</div>
+    </div>
+  
+  <div id="views_slideshow_cycle_main_primary_feature_slideshow-panel_pane_primary_slideshow_num" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_primary_feature_slideshow-panel_pane_primary_slideshow_num" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_primary_feature_slideshow-panel_pane_primary_slideshow_num_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-home-content-image">        <div class="field-content"><img typeof="foaf:Image" src="https://polisci.wustl.edu/files/polisci/styles/custom_home_content/public/home_contents/macmullen-south-40.jpg?itok=kZjexw1c" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-home-content-text">        <div class="field-content feature-caption-overlay"><div class="feature-caption-inner">
+<h3>Faculty, students interact on the South 40</h3>
+<p>Through becoming involved in residential life on the South 40, Faculty Associates and Faculty Fellows extend their interactions with students outside the classroom.</p>
+</div></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_primary_feature_slideshow-panel_pane_primary_slideshow_num_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-home-content-image">        <div class="field-content"><a href="https://polisci.wustl.edu/research-spotlights/articles/15"><img typeof="foaf:Image" src="https://polisci.wustl.edu/files/polisci/styles/custom_home_content/public/home_contents/f_clarissa_hayward_presidents.jpg?itok=QGC1_UwJ" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-home-content-text">        <div class="field-content feature-caption-overlay"><div class="feature-caption-inner">
+<h3><a href="https://polisci.wustl.edu/research-spotlights/articles/15">Spotlight on Faculty:</a></h3>
+<p>Professor Hayward’s research focuses on questions that are central to understanding and to evaluating political life.</p>
+</div></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_primary_feature_slideshow-panel_pane_primary_slideshow_num_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-home-content-image">        <div class="field-content"><a href="https://polisci.wustl.edu/undergraduate/semester_dc"><img typeof="foaf:Image" src="https://polisci.wustl.edu/files/polisci/styles/custom_home_content/public/home_contents/capitol.jpg?itok=x0DSNiEx" alt="" /></a></div>  </div>  
+  <div class="views-field views-field-field-home-content-text">        <div class="field-content feature-caption-overlay"><div class="feature-caption-inner">
+<h3><a href="https://polisci.wustl.edu/undergraduate/semester_dc">D.C. Semester Program</a></h3>
+<p>Offering students interaction with key policymakers.</p>
+</div></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_primary_feature_slideshow-panel_pane_primary_slideshow_num_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-home-content-image">        <div class="field-content"><img typeof="foaf:Image" src="https://polisci.wustl.edu/files/polisci/styles/custom_home_content/public/home_contents/sos-lowry.jpg?itok=5wrM8-Lq" alt="" /></div>  </div>  
+  <div class="views-field views-field-field-home-content-text">        <div class="field-content feature-caption-overlay"><div class="feature-caption-inner">
+<h3>Share Our Stuff program benefits the community and environment</h3>
+<p>Students moving out at the end of the year donate useful items to Share Our Stuff (SOS). This program helped those in need in the St. Louis region and helped the environment by reducing waste.</p>
+</div></div>  </div></div>
+</div>
+</div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          </div>
+  
+      
+      
+  </div>
+</div></div>      </div>
+    </div>
+    <div class="panel-fivecol-top-right panel-panel panel-col panel-col-last grid_5">
+      <div class="panel-content-color">
+        <div  class="panel-pane pane-views-panes pane-secondary-features-panel-pane-secondary-features">
+  <div class="panel-inner pane-inner">
+  
+      
+              
+      
+    <div class="pane-content">
+       
+        <div class="view view-secondary-features view-id-secondary_features view-display-id-panel_pane_secondary_features view-dom-id-35b731506716d42f4a4f581ec4f86b93">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+    <article id="node-318" class="node node-page node-teaser clearfix" about="/about" typeof="sioc:Item foaf:Document">
+  <div class="content">
+    <header><h2 property="dc:title" datatype=""><a href="https://polisci.wustl.edu/about">About the Department</a></h2></header><div class="field field-name-field-page-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The Department of Political Science at Washington University in St. Louis strives to be one of the best in the world. We are widely recognized for our strengths in theory, methods, and the rigorous combination of the two. The members of <a href="/faculty">our faculty</a> are leading scholars in their fields. The <a href="/graduate">Ph.D. students</a> we train go on to be some of the most productive in the discipline. The <a href="/undergraduate">undergraduate</a> student body at WashU is among the tops in the country, and our majors have their choice of careers, graduate programs, and professional schools.The Department is nationally and internationally recognized as one of the leading departments in the discipline. </p></div></div></div>  </div>
+
+      <footer class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first last"><a href="https://polisci.wustl.edu/about" rel="tag" title="About the Department">Read more<span class="element-invisible"> about About the Department</span></a></li>
+</ul>    </footer>
+  
+  
+</article>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          </div>
+  
+      
+      
+  </div>
+</div>      </div>
+    </div>
+  </div>
+  
+    <div class="panel-row panel-row-resize panel-row-5-6-5 clearfix">
+    <div class="panel-fivecol-middle-left panel-panel panel-col panel-col-first grid_5">
+      <div class="panel-content-color">
+        <div class="pane-with-heading"><section  class="panel-pane pane-views-panes pane-articles-panel-pane-article-list">
+  <div class="panel-inner pane-inner">
+  
+      
+               
+         <h2 class="pane-title"><a href="/news">In the News</a></h2>
+                
+      
+    <div class="pane-content">
+       
+        <div class="view view-articles view-id-articles view-display-id-panel_pane_article_list view-dom-id-8ff917d58347a29717f5defb1161f6a4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-created">        <span class="field-content">July 16, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/articles/387" class="article-view-primary-field">Jon Rogowski Wins Book Award</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-created">        <span class="field-content">July 2, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/articles/372" class="article-view-primary-field">Dr. Hinkle Awarded Best Dissertation</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-created">        <span class="field-content">June 24, 2014</span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/articles/369" class="article-view-primary-field">Clarissa Hayward&#039;s Book Awarded Best Book of 2013</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          </div>
+  
+      
+      
+  </div>
+</section></div>      </div>
+    </div>
+    <div class="panel-sixcol-middle-center panel-panel panel-col grid_6">
+      <div class="panel-content-color">
+        <div class="pane-with-heading"><section  class="panel-pane pane-views-panes pane-events-panel-pane-upcoming-bandn-table">
+  <div class="panel-inner pane-inner">
+  
+      
+               
+         <h2 class="pane-title"><a href="/events">Upcoming Events</a></h2>
+                
+      
+    <div class="pane-content">
+       
+        <div class="view view-events view-id-events view-display-id-panel_pane_upcoming_bandn_table view-dom-id-da718e9ee7e1dd987b583d632d726ed2">
+        
+  
+  
+      <div class="view-empty">
+      No events were found.    </div>
+  
+  
+  
+  
+  
+  
+</div>          </div>
+  
+      
+      
+  </div>
+</section></div>      </div>
+    </div>
+    <div class="panel-fivecol-middle-right panel-panel panel-col panel-col-last grid_5">
+      <div class="panel-content-color">
+        <div class="pane-with-heading"><section  class="panel-pane pane-views-panes pane-articles-panel-pane-articles-publications">
+  <div class="panel-inner pane-inner">
+  
+      
+               
+         <h2 class="pane-title"><a href="/publications">Faculty Books</a></h2>
+                
+      
+    <div class="pane-content">
+       
+        <div class="view view-articles view-id-articles view-display-id-panel_pane_articles_publications view-dom-id-e2e50c55c1ec4b7e7eb12052087fb840">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-article-image">        <div class="field-content"><img typeof="foaf:Image" src="https://polisci.wustl.edu/files/polisci/styles/article_publication_thumbnail/public/articles/social-choice-and-legitimacy.jpg?itok=uOaxFqjd" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title">        <span class="field-content"><a href="http://www.cambridge.org/us/academic/subjects/politics-international-relations/political-economy/social-choice-and-legitimacy-possibilities-impossibility?format=PB" class="article-view-primary-field">Social Choice and Legitimacy: The Possibilities of Impossibility</a></span>  </h3>  
+  <div class="views-field views-field-field-article-subtitle">        <div class="field-content">By John W. Patty and Elizabeth Maggie Penn</div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-article-image">        <div class="field-content"><img typeof="foaf:Image" src="https://polisci.wustl.edu/files/polisci/styles/article_publication_thumbnail/public/articles/9783642195150_p0_v2_s260x420.jpg?itok=TZOA4_4z" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title">        <span class="field-content"><a href="http://www.springer.com/social+sciences/political+science/book/978-3-642-19515-0" class="article-view-primary-field"> Leadership or Chaos: The Heart and Soul of Politics </a></span>  </h3>  
+  <div class="views-field views-field-field-article-subtitle">        <div class="field-content">By Norman Schofield and Maria Gallego</div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-article-image">        <div class="field-content"><img typeof="foaf:Image" src="https://polisci.wustl.edu/files/polisci/styles/article_publication_thumbnail/public/articles/book_0.jpg?itok=_eeWZkZ5" alt="" /></div>  </div>  
+  <h3 class="views-field views-field-title">        <span class="field-content"><a href="http://www.springer.com/social+sciences/political+science/book/978-3-642-35238-6" class="article-view-primary-field">Advances in Political Economy</a></span>  </h3>  
+  <div class="views-field views-field-field-article-subtitle">        <div class="field-content">Norman Schofield, Gonzalo Caballero, and Daniel Kselman (Eds.)</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>          </div>
+  
+      
+      
+  </div>
+</section></div>      </div>
+    </div>
+  </div>
+  
+    
+  
+</div>
+  </div> <!-- /.content -->
+    
+</div> <!-- /.block -->  </section>
+        </div>
+      </div>
+    </div> <!-- /#main -->
+          <footer id="footer" role="contentinfo">
+        <div class="pagewidth clearfix">
+            <section class="region region-footer">
+    <div id="block-menu-block-4" class="block block-menu-block">
+  <div class="panel-inner block-inner">
+
+              
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-4 menu-name-footer-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-511"><a href="http://cerl.wustl.edu/" title="">CERL</a></li>
+<li class="leaf menu-mlid-512"><a href="http://cniss.wustl.edu/" title="">CNISS</a></li>
+<li class="leaf menu-mlid-577"><a href="https://pages.wustl.edu/politicaltheorywustl" title="">Political Theory</a></li>
+<li class="leaf menu-mlid-513"><a href="http://wc.wustl.edu" title="">Weidenbaum Center</a></li>
+<li class="leaf menu-mlid-425"><a href="/contact">Contact Us</a></li>
+<li class="leaf menu-mlid-424"><a href="/sitemap">Site Map</a></li>
+<li class="last leaf menu-mlid-586"><a href="https://polisci.wustl.edu/photo-albums" title="">Photo Albums</a></li>
+</ul></div>
+    </div> <!-- /.content -->
+
+  </div>
+</div> <!-- /.block -->
+<div id="block-block-1" class="block block-block">
+  <div class="panel-inner block-inner">
+
+              
+    <div class="content clearfix">
+      <p>Department of Political Science | Washington University in St. Louis | One Brookings Drive, St. Louis, MO 63130-4899 | <a href="mailto:polisci@artsci.wustl.edu">polisci@artsci.wustl.edu</a></p>    </div> <!-- /.content -->
+
+  </div>
+</div> <!-- /.block -->
+  </section>
+        </div>
+      </footer>
+     </div>
+</div> <!-- /#page-wrapper -->
+    <script type="text/javascript" src="https://polisci.wustl.edu/files/polisci/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="https://polisci.wustl.edu/files/polisci/js/js_BSYisNkS5u_yFX26OINJDZQ_KVpmtq7VCut0eEo3-Mk.js"></script>
+<script type="text/javascript" src="https://polisci.wustl.edu/files/polisci/js/js_rdXB5dWu4_G_1FvMhQUswvO8Pyk8Y70OsvUfPPKnFa0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-831895-28"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://polisci.wustl.edu/files/polisci/js/js_YpatQeQa37CiKB6hGpj8-knB5wNzCYXISTEUqcJRqTA.js"></script>
+<script type="text/javascript" src="https://polisci.wustl.edu/files/polisci/js/js_J73DUDPN_YUm984bFHgbpARTxvofeFNbuFnhv2qn6Lc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sitetheme","theme_token":"dt_2S6PZFDrfiZANdt4_UP6uhpkTbxEx4kfeg7YQ0oA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/features\/artsci_base\/text.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/modules\/contrib\/ctools\/js\/jump-menu.js":1,"sites\/all\/themes\/innovate\/scripts\/mobility.js":1,"sites\/all\/themes\/innovate\/scripts\/imagecaptions.js":1,"sites\/all\/themes\/innovate\/scripts\/equalize-blocks.js":1,"sites\/all\/themes\/awesomesauce\/scripts\/awesomesauce.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/features\/artsci_person_views\/artsci_person_views.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/themes\/innovate\/panels\/layouts\/captivate\/..\/..\/..\/lib\/grid.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/themes\/innovate\/lib\/reset.css":1,"sites\/all\/themes\/innovate\/css\/html.css":1,"sites\/all\/themes\/innovate\/lib\/grid.css":1,"sites\/all\/themes\/innovate\/css\/layout.css":1,"sites\/all\/themes\/innovate\/css\/elements.css":1,"sites\/all\/themes\/awesomesauce\/css\/color.css":1,"sites\/all\/themes\/innovate\/css\/admin.css":1,"sites\/all\/themes\/awesomesauce\/css\/content-types.css":1,"sites\/all\/themes\/awesomesauce\/css\/views.css":1,"sites\/all\/themes\/awesomesauce\/css\/misc.css":1,"sites\/polisci.wustl.edu\/themes\/sitetheme\/color.css":1,"sites\/polisci.wustl.edu\/themes\/sitetheme\/color.less":1,"sites\/polisci.wustl.edu\/themes\/sitetheme\/sitetheme.css":1,"sites\/all\/themes\/innovate\/css\/mobile.css":1,"sites\/all\/themes\/innovate\/css\/iphone.css":1,"sites\/all\/themes\/awesomesauce\/css\/print.css":1,"sites\/all\/themes\/innovate\/css\/ie.css":1,"sites\/all\/themes\/innovate\/css\/ie6.css":1,"https:\/\/fonts.googleapis.com\/css?family=OFL+Sorts+Mill+Goudy+TT:400,400italic\u0026v2":1,"sites\/all\/themes\/awesomesauce\/css\/branding.css":1,"sites\/all\/themes\/awesomesauce\/css\/iphone-branding.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":0,"extExclude":"","extInclude":".*\\.pdf","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"viewsSlideshow":{"primary_feature_slideshow-panel_pane_primary_slideshow_num":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"primary_feature_slideshow-panel_pane_primary_slideshow_num":{"top":{"type":"viewsSlideshowPagerFields"}}},"viewsSlideshowPagerFields":{"primary_feature_slideshow-panel_pane_primary_slideshow_num":{"top":{"activatePauseOnHover":1}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_primary_feature_slideshow-panel_pane_primary_slideshow_num":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"primary_feature_slideshow-panel_pane_primary_slideshow_num","effect":"fade","transition_advanced":1,"timeout":7000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"awesomesauce":{"albumcaptions":"1","articlecaptions":"1","eventcaptions":"1"}});
+//--><!]]>
+</script>
+      <section class="region region-page-bottom">
+    
+    <!--[if IE 6]>
+      <script type="text/javascript">
+        var IE6UPDATE_OPTIONS = {
+          icons_path: "https://polisci.wustl.edu/sites/all/modules/contrib/ie6update/images/",
+          message: "Internet Explorer is missing updates required to view this site. Click here to update... ",
+          url: "http://www.microsoft.com/windows/internet-explorer/default.aspx"
+        }
+      </script>
+      <script type="text/javascript" src="https://polisci.wustl.edu/sites/all/modules/contrib/ie6update/ie6update.js"></script>
+    <![endif]-->
+    </section>
+  </body>
+</html>
