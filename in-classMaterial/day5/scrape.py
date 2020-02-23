@@ -76,4 +76,26 @@ soup = BeautifulSoup(myfile)
 soup.prettify()
 
 #Scrape the names and email addresses of INTL faculty and save the result as a csv
+web_address='https://case.ku.edu.tr/en/academics/international-relations/faculty/'
+web_page = urllib.request.urlopen(web_address)
+
+# Parse it
+soup = BeautifulSoup(web_page.read())
+soup.prettify()
+
+namesTags = soup.find_all('span', {'class':'name'})
+names = []
+for name in namesTags:
+  names.append(name.get_text())
+  
+emailsTags = soup.find_all('a', {'class':'message'})
+emails = []
+for email in emailsTags:
+  emails.append(re.sub('mailto:', '', email['href']))
+
+with open('faculty.csv', 'w') as f:
+  my_writer = csv.DictWriter(f, fieldnames=("Name", "Email"))
+  my_writer.writeheader()
+  for i in range(len(names)):
+    my_writer.writerow({"Name":names[i], "Email":emails[i]})
 

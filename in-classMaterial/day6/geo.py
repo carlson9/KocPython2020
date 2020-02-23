@@ -18,4 +18,17 @@ distance(location, location2)
 
 #TODO: Create a distance matrix of 5 capitals
 
+locations = []
+locations.append(geolocator.geocode('Washington, DC'))
+locations.append(geolocator.geocode('Mexico City'))
+locations.append(geolocator.geocode('Sarajevo'))
+locations.append(geolocator.geocode('Ankara'))
+locations.append(geolocator.geocode('Beijing'))
+
+Matrix = [[0 for x in range(5)] for y in range(5)]
+
+for x in range(5):
+	for y in range(5):
+		Matrix[x][y] = distance(locations[x], locations[y])
+		
 
