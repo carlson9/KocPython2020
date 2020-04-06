@@ -1,0 +1,1024 @@
+country,year,church2,cc,gini_net,rgdpl
+Australia,1965,26.18279,Australia,29.16514,15.23929
+Australia,1966,,Australia,29.25798,15.8417
+Australia,1967,24.74438,Australia,29.50664,16.25018
+Australia,1968,,Australia,29.64997,17.23531
+Australia,1969,,Australia,29.60249,17.82059
+Australia,1970,,Australia,29.00418,18.16634
+Australia,1971,,Australia,28.52913,18.55011
+Australia,1972,,Australia,26.05007,18.88342
+Australia,1973,,Australia,25.48176,19.62577
+Australia,1974,,Australia,23.16264,19.2555
+Australia,1975,,Australia,24.1959,19.74228
+Australia,1976,,Australia,23.65841,20.16865
+Australia,1977,,Australia,24.94769,20.34362
+Australia,1978,,Australia,25.12819,21.22271
+Australia,1979,4.442971,Australia,25.75894,21.58357
+Australia,1980,,Australia,26.81675,22.12616
+Australia,1981,27.62646,Australia,28.1,22.46979
+Australia,1982,,Australia,28.21152,21.79415
+Australia,1983,,Australia,28.47211,22.51293
+Australia,1984,18.0997,Australia,28.80875,23.45019
+Australia,1985,20.22697,Australia,29.2,24.2788
+Australia,1986,19.77859,Australia,28.94311,24.55994
+Australia,1987,18.12298,Australia,29.03169,25.30158
+Australia,1988,,Australia,29.50366,25.70058
+Australia,1989,,Australia,30.4,26.27708
+Australia,1990,16.97033,Australia,30.50249,25.80617
+Australia,1991,13.27434,Australia,29.92271,25.74582
+Australia,1992,,Australia,29.97165,26.28037
+Australia,1993,,Australia,27.69392,26.95834
+Australia,1994,13.97515,Australia,29.10391,27.98602
+Australia,1995,13.99436,Australia,30.8,28.86694
+Australia,1996,13.0172,Australia,30.06292,29.73322
+Australia,1997,,Australia,29.83276,30.73362
+Australia,1998,18.46882,Australia,30.49432,31.9407
+Australia,1999,,Australia,31.33026,32.98455
+Australia,2000,,Australia,31.6885,33.234
+Australia,2001,,Australia,31.7,34.00846
+Australia,2002,17.89941,Australia,31.50468,34.77792
+Australia,2003,14.5213,Australia,31.2,35.8719
+Australia,2004,,Australia,31.05586,36.49057
+Australia,2005,14.76437,Australia,31.00422,38.38713
+Australia,2006,,Australia,31.49828,39.32699
+Australia,2007,12.57205,Australia,32.27777,40.29008
+Australia,2008,,Australia,33.05728,40.67759
+Australia,2009,8.886184,Australia,33.47704,41.28754
+Austria,1974,31.92204,Austria,,18.91584
+Austria,1975,,Austria,,18.97748
+Austria,1976,,Austria,,19.90236
+Austria,1977,,Austria,,20.92127
+Austria,1978,,Austria,,20.57459
+Austria,1979,,Austria,,22.16738
+Austria,1980,,Austria,,22.27315
+Austria,1981,,Austria,32.2401,22.33612
+Austria,1982,,Austria,28.57948,22.7354
+Austria,1983,,Austria,24.48338,23.43709
+Austria,1984,,Austria,24.03738,23.54528
+Austria,1985,25.86558,Austria,23.59139,24.27342
+Austria,1986,25.7965,Austria,23.14539,24.66672
+Austria,1987,,Austria,22.7,25.05622
+Austria,1988,23.52941,Austria,26.39317,25.93224
+Austria,1989,20.83759,Austria,30.08694,26.94388
+Austria,1990,25.90782,Austria,33.78072,27.79108
+Austria,1991,,Austria,37.47449,28.34239
+Austria,1992,,Austria,33.90898,28.66602
+Austria,1993,,Austria,30.34347,28.53374
+Austria,1994,,Austria,28,28.99739
+Austria,1995,13.88756,Austria,27.7,29.50747
+Austria,1996,6.92185,Austria,26.98255,30.11536
+Austria,1997,,Austria,26.6,30.71312
+Austria,1998,5.947837,Austria,26.1707,31.73699
+Austria,1999,20.9787,Austria,25.95217,32.63842
+Austria,2000,,Austria,25.7,33.69578
+Austria,2001,17.11177,Austria,26.20442,33.91986
+Austria,2002,,Austria,26.55854,34.0506
+Austria,2003,18.13285,Austria,26.91266,34.39655
+Austria,2004,12.02783,Austria,26.9,35.17712
+Austria,2005,15.38817,Austria,26.87447,35.63146
+Austria,2006,,Austria,26.68417,36.80611
+Austria,2007,16.01393,Austria,26.77334,38.23284
+Austria,2008,12.23542,Austria,26.96873,38.98785
+Belgium,1973,37.67773,Belgium,,18.25317
+Belgium,1974,,Belgium,24.68493,19.0263
+Belgium,1975,12.92091,Belgium,23.00524,18.62197
+Belgium,1976,33.85595,Belgium,23.29067,19.65471
+Belgium,1977,35.75727,Belgium,23.16734,19.82392
+Belgium,1978,23.13015,Belgium,22.73958,20.41201
+Belgium,1979,,Belgium,22.38495,20.91156
+Belgium,1980,13.46633,Belgium,22.43772,21.79652
+Belgium,1981,22.65204,Belgium,22.49049,21.38384
+Belgium,1982,,Belgium,22.54325,21.47611
+Belgium,1983,,Belgium,22.59602,21.40358
+Belgium,1984,,Belgium,22.64879,21.95769
+Belgium,1985,13.07351,Belgium,22.7,22.29981
+Belgium,1986,,Belgium,22.84311,22.77339
+Belgium,1987,,Belgium,22.98465,23.37398
+Belgium,1988,10.60606,Belgium,23.2,24.47027
+Belgium,1989,15.81038,Belgium,23.1981,25.3633
+Belgium,1990,23.99607,Belgium,23.27,26.20477
+Belgium,1991,17.61658,Belgium,22.82627,26.51233
+Belgium,1992,8.84913,Belgium,22.4,26.8304
+Belgium,1993,12.12815,Belgium,23.174,26.29237
+Belgium,1994,16.34216,Belgium,24.42347,27.18926
+Belgium,1995,3.125,Belgium,26.6,27.68027
+Belgium,1996,3.780965,Belgium,25.48208,27.98187
+Belgium,1997,,Belgium,25,29.0338
+Belgium,1998,3.081414,Belgium,25.89007,29.48265
+Belgium,1999,18.70694,Belgium,26.7914,30.44923
+Belgium,2000,,Belgium,27.9,31.48179
+Belgium,2001,,Belgium,26.9566,31.57499
+Belgium,2002,11.23409,Belgium,26.36617,31.88059
+Belgium,2003,,Belgium,25.77574,32.05879
+Belgium,2004,9.61652,Belgium,25.36248,33.09001
+Belgium,2005,,Belgium,25.41214,33.71987
+Belgium,2006,9.433963,Belgium,25.33022,34.6174
+Belgium,2007,,Belgium,25.01287,35.57398
+Belgium,2008,8.170907,Belgium,25.15233,36.09933
+Bulgaria,1990,5.500982,Bulgaria,22.72147,6.456923
+Bulgaria,1991,,Bulgaria,25.81981,6.386628
+Bulgaria,1992,,Bulgaria,27.8359,6.002017
+Bulgaria,1993,,Bulgaria,28.89769,6.048465
+Bulgaria,1994,,Bulgaria,28.42337,6.206571
+Bulgaria,1995,3.865928,Bulgaria,29.37227,6.424454
+Bulgaria,1996,2.371542,Bulgaria,27.83871,5.872672
+Bulgaria,1997,7.182836,Bulgaria,27.56652,5.616853
+Bulgaria,1998,,Bulgaria,25.56196,5.844852
+Bulgaria,1999,9.547739,Bulgaria,25.12334,6.027189
+Bulgaria,2000,,Bulgaria,24.09009,6.425663
+Bulgaria,2001,,Bulgaria,24.51417,6.738568
+Bulgaria,2002,,Bulgaria,24.0828,7.219992
+Bulgaria,2003,4.490178,Bulgaria,24.66968,7.604159
+Bulgaria,2004,,Bulgaria,25.42691,8.072845
+Bulgaria,2005,5.8876,Bulgaria,27.59195,9.187833
+Bulgaria,2006,6.163014,Bulgaria,30.53547,9.824455
+Bulgaria,2007,,Bulgaria,32.79706,10.52931
+Bulgaria,2008,5.60054,Bulgaria,34.81786,11.19185
+Bulgaria,2009,6.757991,Bulgaria,35.17319,10.92252
+Canada,1982,30.7815,Canada,28.85834,23.0985
+Canada,1983,,Canada,29.31562,23.57777
+Canada,1984,40.04224,Canada,29.26626,24.65519
+Canada,1985,,Canada,28.99961,25.57167
+Canada,1986,,Canada,28.54823,26.01621
+Canada,1987,,Canada,28.3,26.77402
+Canada,1988,,Canada,27.64547,27.64007
+Canada,1989,,Canada,27.26085,27.93299
+Canada,1990,26.8137,Canada,27.52831,27.64662
+Canada,1991,,Canada,28.1,26.80403
+Canada,1992,,Canada,27.98053,26.73444
+Canada,1993,22.01152,Canada,28.16337,27.05264
+Canada,1994,,Canada,28.4,28.00217
+Canada,1995,18.98898,Canada,28.67783,28.46112
+Canada,1996,17.17428,Canada,28.96279,28.62396
+Canada,1997,,Canada,29.1,29.65259
+Canada,1998,,Canada,31.1,30.62942
+Canada,1999,,Canada,31.09273,32.06335
+Canada,2000,23.99789,Canada,31.5,33.46235
+Canada,2001,22.35188,Canada,31.54675,33.69068
+Canada,2002,,Canada,31.67828,34.37586
+Canada,2003,,Canada,31.72795,34.78879
+Canada,2004,24.19488,Canada,31.8,35.64283
+Canada,2005,,Canada,31.92331,36.44909
+Canada,2006,23.26476,Canada,32.10001,37.1812
+Chile,1990,23.76667,Chile,51.95399,5.650817
+Chile,1991,,Chile,51.632,5.992384
+Chile,1992,,Chile,51.52831,6.644143
+Chile,1993,,Chile,50.94807,7.01271
+Chile,1994,,Chile,51.45036,7.343416
+Chile,1995,,Chile,51.47533,8.069915
+Chile,1996,25,Chile,52.20377,8.597692
+Chile,1997,,Chile,52.19881,9.085252
+Chile,1998,20.52003,Chile,52.21823,9.27206
+Chile,1999,,Chile,51.9452,9.136523
+Chile,2000,31.32938,Chile,51.47354,9.45084
+Chile,2001,,Chile,51.1993,9.693109
+Chile,2002,22.60638,Chile,50.92507,9.790956
+Chile,2003,22.12625,Chile,50.37936,10.08183
+Chile,2004,,Chile,49.68658,10.66401
+Chile,2005,22.3026,Chile,48.9938,11.21925
+Chile,2006,20.33223,Chile,48.25936,11.64531
+Chile,2007,,Chile,48.73933,12.13542
+Chile,2008,20.09472,Chile,49.21931,12.57483
+Cyprus,1996,8,Cyprus,24.48223,15.53059
+Cyprus,1997,,Cyprus,26.8965,15.53144
+Cyprus,1998,3.952096,Cyprus,27.07771,16.067
+Cyprus,1999,,Cyprus,27.25892,16.54086
+Cyprus,2000,,Cyprus,27.44013,17.21964
+Cyprus,2001,8.846918,Cyprus,27.62134,17.59199
+Cyprus,2002,,Cyprus,27.80255,17.70422
+Cyprus,2003,,Cyprus,27.98376,17.66754
+Cyprus,2004,10.2,Cyprus,28.64482,18.12475
+Cyprus,2005,,Cyprus,29.30589,18.37882
+Cyprus,2006,21.24611,Cyprus,29.60766,18.76031
+Cyprus,2007,,Cyprus,29.69076,19.46316
+Cyprus,2008,23.37421,Cyprus,29.31603,19.85297
+Czech Republic,1990,6.297503,Czech Republic,20.48654,16.45634
+Czech Republic,1991,8.408551,Czech Republic,20.96412,13.97027
+Czech Republic,1992,,Czech Republic,20.7,13.76737
+Czech Republic,1993,,Czech Republic,22.16437,14.0583
+Czech Republic,1994,7.127882,Czech Republic,23.37734,14.56102
+Czech Republic,1995,5.040504,Czech Republic,24.40395,15.37105
+Czech Republic,1996,5.636364,Czech Republic,25.9,16.20198
+Czech Republic,1997,,Czech Republic,25.37119,16.18527
+Czech Republic,1998,9.249563,Czech Republic,25.44571,16.11311
+Czech Republic,1999,7.716997,Czech Republic,25.55328,16.39614
+Czech Republic,2000,,Czech Republic,26.12981,16.93205
+Czech Republic,2001,6.333333,Czech Republic,25.95093,17.48195
+Czech Republic,2002,8.961912,Czech Republic,26.32441,17.92117
+Czech Republic,2003,5.956113,Czech Republic,26.41291,18.65274
+Czech Republic,2004,6.62193,Czech Republic,26.6,19.56643
+Czech Republic,2005,,Czech Republic,26.35188,20.696
+Czech Republic,2006,7.493755,Czech Republic,26.0948,22.10472
+Czech Republic,2007,,Czech Republic,25.13285,23.51881
+Czech Republic,2008,7.025136,Czech Republic,25.18013,24.0615
+Czech Republic,2009,6.547315,Czech Republic,24.85491,23.05944
+Denmark,1971,10.69477,Denmark,26.0922,18.10628
+Denmark,1972,,Denmark,26.33082,18.62346
+Denmark,1973,,Denmark,26.47697,19.43145
+Denmark,1974,,Denmark,26.21242,19.0952
+Denmark,1975,,Denmark,25.48189,18.86207
+Denmark,1976,4.222451,Denmark,25.40882,20.15785
+Denmark,1977,3.836572,Denmark,25.76803,20.46106
+Denmark,1978,2.517623,Denmark,26.12724,20.87071
+Denmark,1979,8.836973,Denmark,26.48645,21.61429
+Denmark,1980,1.697454,Denmark,26.84566,21.35497
+Denmark,1981,2.487751,Denmark,27.20487,21.2429
+Denmark,1982,,Denmark,26.5813,22.01009
+Denmark,1983,,Denmark,26.05326,22.54716
+Denmark,1984,,Denmark,25.30363,23.50057
+Denmark,1985,3.024293,Denmark,24.94245,24.54894
+Denmark,1986,,Denmark,25.05849,25.88594
+Denmark,1987,,Denmark,25.4,25.86824
+Denmark,1988,2.282878,Denmark,25.63111,25.82104
+Denmark,1989,2.366716,Denmark,25.80678,25.98919
+Denmark,1990,2.747925,Denmark,25.89666,26.30417
+Denmark,1991,2.833333,Denmark,24.83742,26.56638
+Denmark,1992,1.225,Denmark,23.6,26.98564
+Denmark,1993,1.733333,Denmark,23.10812,26.82664
+Denmark,1994,3.393214,Denmark,22.49769,28.28546
+Denmark,1995,0.58,Denmark,21.8,29.07759
+Denmark,1996,1.332445,Denmark,22.055,29.72717
+Denmark,1997,,Denmark,22.18692,30.64781
+Denmark,1998,1.623235,Denmark,22.28349,31.2691
+Denmark,1999,2.654867,Denmark,22.39482,31.94044
+Denmark,2000,,Denmark,22.5,33.11322
+Denmark,2001,1.469451,Denmark,22.5571,33.19891
+Denmark,2002,2.734108,Denmark,22.61042,33.27729
+Denmark,2003,1.28593,Denmark,22.76181,33.26435
+Denmark,2004,3.079076,Denmark,22.8,33.86326
+Denmark,2005,1.854975,Denmark,23.59887,34.70007
+Denmark,2006,3.607896,Denmark,24.21162,35.87249
+Denmark,2007,,Denmark,25.08922,36.33575
+Denmark,2008,2.701617,Denmark,25.76099,35.87624
+Denmark,2009,2.874743,Denmark,26.46745,33.92914
+Estonia,1996,3.627451,Estonia,35.93178,8.122738
+Estonia,1997,,Estonia,35.50616,9.019996
+Estonia,1998,,Estonia,35.30376,9.419322
+Estonia,1999,3.647416,Estonia,35.61781,9.480838
+Estonia,2000,,Estonia,36.1,10.44691
+Estonia,2001,,Estonia,35.4254,11.14278
+Estonia,2002,,Estonia,35.10341,12.16893
+Estonia,2003,,Estonia,34.9562,13.23069
+Estonia,2004,4.002134,Estonia,34.7,14.27643
+Estonia,2005,,Estonia,33.91154,16.14217
+Estonia,2006,,Estonia,32.83473,18.0055
+Estonia,2007,2.44898,Estonia,32.11361,19.04744
+Estonia,2008,4.373757,Estonia,31.25015,18.28764
+Estonia,2009,2.533993,Estonia,31.09632,16.29404
+Finland,1975,2.471315,Finland,20.87763,16.52561
+Finland,1976,,Finland,21.43812,16.31581
+Finland,1977,,Finland,21.80152,16.58922
+Finland,1978,,Finland,21.68617,16.81051
+Finland,1979,,Finland,21.57081,17.99284
+Finland,1980,,Finland,21.45546,18.95234
+Finland,1981,4.04908,Finland,21.34011,19.25494
+Finland,1982,,Finland,21.2671,19.82244
+Finland,1983,,Finland,21.19409,20.25531
+Finland,1984,,Finland,21.12108,20.82928
+Finland,1985,,Finland,21.04807,21.19523
+Finland,1986,,Finland,21.05192,21.61102
+Finland,1987,,Finland,20.9,22.28028
+Finland,1988,,Finland,21.07273,23.41836
+Finland,1989,,Finland,21.11755,24.73898
+Finland,1990,3.767123,Finland,21.0378,24.32665
+Finland,1991,,Finland,21,22.59332
+Finland,1992,,Finland,20.81,21.45266
+Finland,1993,,Finland,20.81542,20.83466
+Finland,1994,,Finland,21.14375,21.47773
+Finland,1995,0.9876065,Finland,21.7,22.57929
+Finland,1996,3.008435,Finland,22.04951,23.03426
+Finland,1997,,Finland,22.57052,24.5773
+Finland,1998,1.555916,Finland,23.13858,26.0027
+Finland,1999,,Finland,23.84673,27.02433
+Finland,2000,5.03876,Finland,24.6,28.26218
+Finland,2001,3.052325,Finland,24.76608,28.92552
+Finland,2002,4.706504,Finland,24.97764,29.30147
+Finland,2003,4.13343,Finland,25.09299,29.74985
+Finland,2004,4.413105,Finland,25.2,30.78294
+Finland,2005,6.442021,Finland,25.29313,31.75755
+Finland,2006,4.5374,Finland,25.38251,33.0868
+Finland,2007,,Finland,25.37597,34.88882
+Finland,2008,3.956041,Finland,25.46561,35.12898
+France,1975,8.922698,France,31.34674,18.17357
+France,1976,16.8535,France,30.8343,18.98019
+France,1977,14.73963,France,30.32187,19.50012
+France,1978,12.26177,France,29.80943,20.18221
+France,1979,,France,29.3,20.7896
+France,1980,6.120385,France,29.03596,21.06036
+France,1981,8.362878,France,28.8,21.10896
+France,1982,,France,28.92197,21.58896
+France,1983,,France,29.069,21.66033
+France,1984,,France,29.2,21.81129
+France,1985,6.077075,France,29.10754,22.14489
+France,1986,,France,28.99904,22.72071
+France,1987,,France,28.89054,23.23601
+France,1988,4.663992,France,28.78205,24.1699
+France,1989,7.540173,France,28.7,24.87449
+France,1990,9.039573,France,27.02175,25.39223
+France,1991,6.727332,France,27.46455,25.48122
+France,1992,3.53146,France,27.90735,25.65501
+France,1993,5.054152,France,28.35015,25.28893
+France,1994,7.168694,France,28.8,25.7192
+France,1995,1.376696,France,26.41288,26.12645
+France,1996,1.289683,France,24.86403,26.29052
+France,1997,8.079268,France,23.98123,26.71661
+France,1998,6.739465,France,24.29801,27.53475
+France,1999,7.649254,France,25.60821,28.31444
+France,2000,,France,27.8,29.26671
+France,2001,6.795422,France,26.92287,29.6367
+France,2002,,France,26.83669,29.76777
+France,2003,7.667742,France,26.92189,29.93261
+France,2004,,France,27.40671,30.49295
+France,2005,6.977399,France,28,30.97359
+France,2006,6.717888,France,27.8005,31.37974
+France,2007,,France,27.80282,32.01543
+France,2008,6.269671,France,28.16259,31.97997
+Germany,1969,25.96388,Germany,27.56095,
+Germany,1970,,Germany,29.20523,16.21285
+Germany,1971,,Germany,28.09013,16.67393
+Germany,1972,,Germany,26.49847,17.31848
+Germany,1973,21.15483,Germany,27.1,17.98267
+Germany,1974,,Germany,28.39483,17.95656
+Germany,1975,16.77373,Germany,28.86624,18.05334
+Germany,1976,19.20516,Germany,28.04247,19.01816
+Germany,1977,17.55463,Germany,27.21871,19.69267
+Germany,1978,13.57323,Germany,26.4,20.35369
+Germany,1979,14.16416,Germany,25.74571,21.23689
+Germany,1980,13.36167,Germany,25.09648,21.41574
+Germany,1981,12.34218,Germany,24.4,21.28517
+Germany,1982,15.6134,Germany,25.18925,21.11584
+Germany,1983,8.7,Germany,26,21.57458
+Germany,1984,15.18764,Germany,26.8,22.16113
+Germany,1985,10.13943,Germany,26.65942,22.63086
+Germany,1986,14.13424,Germany,26.56635,23.2851
+Germany,1987,11.81536,Germany,26.3532,23.71487
+Germany,1988,12.11862,Germany,26.1122,24.46523
+Germany,1989,10.77555,Germany,25.7,25.13404
+Germany,1990,12.53078,Germany,26.45138,26.13151
+Germany,1991,9.168201,Germany,26.96174,27.17759
+Germany,1992,7.708203,Germany,27.4721,27.59703
+Germany,1993,7.34132,Germany,27.47905,27.21001
+Germany,1994,9.409825,Germany,27.3,27.82332
+Germany,1995,6.978099,Germany,27.54665,28.26241
+Germany,1996,6.166543,Germany,27.59156,28.44074
+Germany,1997,9.245377,Germany,27.56705,28.88034
+Germany,1998,7.23938,Germany,27.36863,29.4543
+Germany,1999,10.96296,Germany,27.31783,30.03594
+Germany,2000,7.887771,Germany,27.5,30.93254
+Germany,2001,,Germany,27.61329,31.24009
+Germany,2002,9.345701,Germany,27.98022,31.12988
+Germany,2003,8.811958,Germany,27.9818,31.05306
+Germany,2004,9.048123,Germany,27.8,31.38886
+Germany,2005,,Germany,28.45459,31.61063
+Germany,2006,8.01145,Germany,29.08829,32.66009
+Germany,2007,,Germany,29.9,33.63822
+Germany,2008,7.19524,Germany,30.05372,34.0703
+Greece,1981,13.1,Greece,32.5811,17.05507
+Greece,1982,,Greece,31.92327,16.76848
+Greece,1983,,Greece,32.22767,16.51164
+Greece,1984,,Greece,32.53207,16.75903
+Greece,1985,12.95,Greece,32.83647,17.12406
+Greece,1986,,Greece,32.44144,17.15926
+Greece,1987,,Greece,32.04641,16.73281
+Greece,1988,11.5,Greece,31.22651,17.41562
+Greece,1989,15.44209,Greece,31.57839,17.99952
+Greece,1990,22.0153,Greece,31.93027,17.83379
+Greece,1991,22.75449,Greece,32.28215,18.15802
+Greece,1992,12.67149,Greece,32.63403,18.13483
+Greece,1993,15.07488,Greece,32.98591,17.75916
+Greece,1994,23.25813,Greece,33.70886,18.02009
+Greece,1995,4.156723,Greece,34.9,18.36475
+Greece,1996,8.805032,Greece,34.33416,18.75912
+Greece,1997,,Greece,34.14707,19.39458
+Greece,1998,7.065038,Greece,33.88507,20.00616
+Greece,1999,13.96994,Greece,33.55972,20.64579
+Greece,2000,,Greece,33.3,21.54098
+Greece,2001,,Greece,33.37058,22.38303
+Greece,2002,,Greece,33.50526,23.19738
+Greece,2003,27.43927,Greece,33.30515,24.36538
+Greece,2004,,Greece,32.9,25.44951
+Greece,2005,24.62971,Greece,33.14656,25.72441
+Greece,2006,,Greece,33.18452,26.9314
+Greece,2007,,Greece,33.15495,27.96383
+Greece,2008,21.04208,Greece,32.93847,28.24705
+Greece,2009,16.44378,Greece,32.81787,27.30498
+Hungary,1982,22.91667,Hungary,21.88928,11.05992
+Hungary,1983,,Hungary,21.53831,11.08846
+Hungary,1984,,Hungary,21.18735,11.28587
+Hungary,1985,,Hungary,21.77684,11.38686
+Hungary,1986,,Hungary,22.36633,11.68254
+Hungary,1987,,Hungary,24.3345,12.1092
+Hungary,1988,,Hungary,24.76573,12.11717
+Hungary,1989,,Hungary,25.22252,12.26312
+Hungary,1990,12.18014,Hungary,26.8485,11.90965
+Hungary,1991,13.13049,Hungary,32.3,10.85301
+Hungary,1992,,Hungary,31.04546,10.68354
+Hungary,1993,,Hungary,29.84561,10.92333
+Hungary,1994,12.75885,Hungary,28.3,11.0502
+Hungary,1995,10.8,Hungary,29.98706,10.86974
+Hungary,1996,9.4,Hungary,30.84941,10.942
+Hungary,1997,,Hungary,31.05153,11.44017
+Hungary,1998,12.9859,Hungary,30.18691,12.06777
+Hungary,1999,10.65327,Hungary,29.2,12.6337
+Hungary,2000,,Hungary,28.49049,13.2613
+Hungary,2001,11.87664,Hungary,27.73192,13.82459
+Hungary,2002,11.11801,Hungary,27.60619,14.57113
+Hungary,2003,10.18609,Hungary,27.67425,15.27486
+Hungary,2004,8.695652,Hungary,28.51826,15.99277
+Hungary,2005,10.62937,Hungary,28.9,16.64396
+Hungary,2006,9.753738,Hungary,28.91083,17.29356
+Hungary,2007,,Hungary,28.12193,17.48694
+Hungary,2008,6.640326,Hungary,27.51001,17.62079
+Hungary,2009,8.76494,Hungary,26.10715,16.52145
+Ireland,1973,87.90659,Ireland,34.03118,11.75685
+Ireland,1974,,Ireland,34.03118,11.92205
+Ireland,1975,,Ireland,,11.77057
+Ireland,1976,,Ireland,33.54142,12.04102
+Ireland,1977,,Ireland,33.42321,12.80192
+Ireland,1978,,Ireland,33.35859,13.65386
+Ireland,1979,,Ireland,33.28384,14.13469
+Ireland,1980,43.74379,Ireland,33.19293,14.01435
+Ireland,1981,62.56705,Ireland,33.13728,14.29035
+Ireland,1982,,Ireland,33.08163,14.1009
+Ireland,1983,,Ireland,33.02598,13.81371
+Ireland,1984,,Ireland,32.97033,14.04432
+Ireland,1985,43.72831,Ireland,32.91468,14.27366
+Ireland,1986,,Ireland,32.85903,14.30141
+Ireland,1987,,Ireland,32.8,14.54736
+Ireland,1988,41.21757,Ireland,32.87258,15.08191
+Ireland,1989,68.47218,Ireland,32.94178,16.07562
+Ireland,1990,72.85896,Ireland,33.01098,17.39415
+Ireland,1991,71.92653,Ireland,33.08018,17.49967
+Ireland,1992,37.76503,Ireland,33.14938,17.70874
+Ireland,1993,50.54836,Ireland,33.21858,18.00963
+Ireland,1994,71.72079,Ireland,33.3,19.01761
+Ireland,1995,41.40956,Ireland,33.6,20.79666
+Ireland,1996,43.28626,Ireland,32.5,22.44367
+Ireland,1997,,Ireland,32.87226,24.63788
+Ireland,1998,42.24292,Ireland,33.01657,26.15387
+Ireland,1999,65.40755,Ireland,32.23184,28.49819
+Ireland,2000,,Ireland,31.3,30.76828
+Ireland,2001,,Ireland,31.06648,32.15033
+Ireland,2002,0.6076055,Ireland,31.03939,33.80356
+Ireland,2003,57.10191,Ireland,31.0123,35.01027
+Ireland,2004,,Ireland,31.3,35.46073
+Ireland,2005,54.10665,Ireland,31.1471,37.03242
+Ireland,2006,,Ireland,30.98756,37.8889
+Ireland,2007,23.52444,Ireland,30.3728,39.16802
+Ireland,2008,43.78401,Ireland,29.99238,37.18571
+Ireland,2009,44.07665,Ireland,29.3203,33.40554
+Israel,1994,11.94512,Israel,32.15518,20.37762
+Israel,1995,,Israel,32.9777,21.05871
+Israel,1996,17.628,Israel,33.2794,21.65323
+Israel,1997,,Israel,33.6,21.65148
+Israel,1998,,Israel,33.84027,21.91349
+Israel,1999,,Israel,34.09944,21.93408
+Israel,2000,,Israel,34.3586,23.1792
+Israel,2001,18.80696,Israel,34.6,22.5023
+Israel,2002,19.16631,Israel,35.2184,21.81094
+Israel,2003,,Israel,35.81903,21.82407
+Israel,2004,20.93596,Israel,36.41967,22.46161
+Israel,2005,20.36861,Israel,37,23.81429
+Israel,2006,,Israel,37,24.6247
+Israel,2007,,Israel,,25.47359
+Israel,2008,23.25484,Israel,,26.07777
+Israel,2009,20.57762,Israel,,25.55908
+Italy,1968,47.99358,Italy,35.94736,13.06692
+Italy,1969,,Italy,35.99623,13.74658
+Italy,1970,,Italy,35.53218,14.36135
+Italy,1971,,Italy,35.98129,14.50859
+Italy,1972,,Italy,35.95389,14.93547
+Italy,1973,47.72132,Italy,36.4902,15.89841
+Italy,1974,,Italy,35.70517,16.62836
+Italy,1975,27.06869,Italy,35.10614,16.07604
+Italy,1976,33.46835,Italy,33.55288,17.13685
+Italy,1977,33.48624,Italy,33.20484,17.46634
+Italy,1978,23.36748,Italy,32.79277,17.9568
+Italy,1979,,Italy,32.80454,19.01254
+Italy,1980,17.44604,Italy,32.169,19.72343
+Italy,1981,23.7325,Italy,30.60082,19.85523
+Italy,1982,,Italy,29.99575,19.94496
+Italy,1983,,Italy,29.85878,20.08478
+Italy,1984,,Italy,30.74356,20.75543
+Italy,1985,49.4286,Italy,31.24954,21.33382
+Italy,1986,,Italy,30.6,21.97664
+Italy,1987,,Italy,33.2,22.69467
+Italy,1988,19.76912,Italy,32.21944,23.64407
+Italy,1989,30.13832,Italy,30.3,24.44597
+Italy,1990,40.00402,Italy,30.67746,24.94431
+Italy,1991,41.27336,Italy,29,25.32062
+Italy,1992,20.56704,Italy,31.42759,25.39995
+Italy,1993,30.73984,Italy,33.9,25.25693
+Italy,1994,35.27628,Italy,33.75851,25.77524
+Italy,1995,20.53721,Italy,33.8,26.52563
+Italy,1996,23.93245,Italy,33.88525,26.6557
+Italy,1997,,Italy,34.1146,27.10476
+Italy,1998,21.05145,Italy,34.6,27.42805
+Italy,1999,40.44377,Italy,33.72612,27.91652
+Italy,2000,,Italy,33.3,28.88165
+Italy,2001,,Italy,33.36584,29.33251
+Italy,2002,23.22322,Italy,33.847,29.38309
+Italy,2003,31.1819,Italy,33.79395,29.23804
+Italy,2004,,Italy,33.8,29.40379
+Italy,2005,31.5,Italy,33.59571,29.37571
+Italy,2006,31.99733,Italy,33.24747,29.91506
+Italy,2007,,Italy,33.37355,30.19959
+Italy,2008,32.03753,Italy,32.81247,29.50009
+Italy,2009,22.04503,Italy,32.99495,27.70856
+Japan,1981,3.919694,Japan,30.10011,20.92651
+Japan,1982,,Japan,29.86918,21.35549
+Japan,1983,,Japan,29.63416,21.55405
+Japan,1984,,Japan,30.05471,22.02303
+Japan,1985,,Japan,28.97874,23.0288
+Japan,1986,,Japan,28.39999,23.61806
+Japan,1987,,Japan,27.9924,24.37135
+Japan,1988,,Japan,27.61526,25.88924
+Japan,1989,,Japan,28.66383,27.08816
+Japan,1990,2.579365,Japan,29.05254,28.44363
+Japan,1991,,Japan,28.77818,29.21803
+Japan,1992,,Japan,28.50381,29.38391
+Japan,1993,,Japan,26.99578,29.35323
+Japan,1994,2.861562,Japan,27.7504,29.49825
+Japan,1995,3.119499,Japan,28.50503,29.96795
+Japan,1996,2.293202,Japan,29.60156,30.65226
+Japan,1997,,Japan,29.65563,31.00314
+Japan,1998,1.848998,Japan,30.87861,30.2466
+Japan,1999,,Japan,31.27254,30.08651
+Japan,2000,4.095309,Japan,32.75501,30.94208
+Japan,2001,2.429467,Japan,32.13329,30.97363
+Japan,2002,,Japan,31.51157,30.96496
+Japan,2003,2.087114,Japan,30.15607,31.30425
+Japan,2004,1.833461,Japan,30.28145,32.11752
+Japan,2005,3.302752,Japan,30.33875,32.76112
+Japan,2006,3.15877,Japan,30.51976,33.42332
+Japan,2007,,Japan,30.71483,34.22377
+Japan,2008,1.683502,Japan,30.63069,33.74432
+"Korea, Republic of",1982,30.7047,"Korea, Republic of",35.52226,5.856662
+"Korea, Republic of",1983,,"Korea, Republic of",34.84545,6.377279
+"Korea, Republic of",1984,,"Korea, Republic of",34.25332,6.898541
+"Korea, Republic of",1985,,"Korea, Republic of",33.43914,7.263734
+"Korea, Republic of",1986,,"Korea, Republic of",33.0597,7.884305
+"Korea, Republic of",1987,,"Korea, Republic of",33.22839,8.680669
+"Korea, Republic of",1988,,"Korea, Republic of",32.43423,9.547065
+"Korea, Republic of",1989,,"Korea, Republic of",32.82402,10.29823
+"Korea, Republic of",1990,21.15219,"Korea, Republic of",31.55854,11.4419
+"Korea, Republic of",1991,,"Korea, Republic of",31.6389,12.45041
+"Korea, Republic of",1992,,"Korea, Republic of",30.65859,12.86285
+"Korea, Republic of",1993,,"Korea, Republic of",30.52817,13.50431
+"Korea, Republic of",1994,,"Korea, Republic of",30.17105,14.66485
+"Korea, Republic of",1995,,"Korea, Republic of",30.09293,15.78126
+"Korea, Republic of",1996,14.68189,"Korea, Republic of",29.68558,16.83198
+"Korea, Republic of",1997,,"Korea, Republic of",29.61671,17.55235
+"Korea, Republic of",1998,,"Korea, Republic of",29.27512,15.66859
+"Korea, Republic of",1999,,"Korea, Republic of",29.33886,17.52727
+"Korea, Republic of",2000,,"Korea, Republic of",29.69439,18.92188
+"Korea, Republic of",2001,30.21703,"Korea, Republic of",30.06205,19.48673
+"Korea, Republic of",2002,,"Korea, Republic of",30.53551,20.78643
+"Korea, Republic of",2003,22.58555,"Korea, Republic of",30.74852,21.23491
+"Korea, Republic of",2004,24.6189,"Korea, Republic of",30.93889,22.03106
+"Korea, Republic of",2005,30.91667,"Korea, Republic of",31.02935,22.80809
+"Korea, Republic of",2006,22.05607,"Korea, Republic of",31.1,23.86906
+"Korea, Republic of",2007,,"Korea, Republic of",31.25109,25.06167
+"Korea, Republic of",2008,24.96662,"Korea, Republic of",31.35714,25.54189
+Latvia,1990,3.189066,Latvia,22.54749,
+Latvia,1991,,Latvia,24.71832,8.839
+Latvia,1992,,Latvia,24.97097,6.069
+Latvia,1993,,Latvia,26.48956,6.023837
+Latvia,1994,,Latvia,28.3803,6.157496
+Latvia,1995,4.980843,Latvia,29.26075,6.204379
+Latvia,1996,4.298381,Latvia,30.56438,6.497753
+Latvia,1997,,Latvia,30.67415,7.096892
+Latvia,1998,5.090595,Latvia,31.87236,7.404802
+Latvia,1999,6.625892,Latvia,32.28977,7.694699
+Latvia,2000,,Latvia,33.16035,8.296106
+Latvia,2001,3.1,Latvia,33.38298,8.947414
+Latvia,2002,,Latvia,34.27102,9.59818
+Latvia,2003,2.5,Latvia,34.70574,10.28072
+Latvia,2004,3,Latvia,36.01411,11.16141
+Latvia,2005,,Latvia,36.04774,12.4518
+Latvia,2006,2.525725,Latvia,37.09313,14.00651
+Latvia,2007,,Latvia,36.44946,15.48628
+Latvia,2008,6.153846,Latvia,36.94971,15.17531
+Latvia,2009,5.263158,Latvia,36.48928,12.77652
+Luxembourg,1985,16.10738,Luxembourg,23.7,31.3387
+Luxembourg,1986,,Luxembourg,23.08931,34.2007
+Luxembourg,1987,,Luxembourg,23.24922,35.28136
+Luxembourg,1988,13.16667,Luxembourg,23.40912,38.02028
+Luxembourg,1989,18.47556,Luxembourg,23.56903,41.6864
+Luxembourg,1990,28.47608,Luxembourg,23.72893,43.3035
+Luxembourg,1991,26.79558,Luxembourg,23.9,46.62632
+Luxembourg,1992,13.69107,Luxembourg,23.76977,46.96645
+Luxembourg,1993,13.86139,Luxembourg,23.65071,48.2939
+Luxembourg,1994,21.63491,Luxembourg,23.5,49.67891
+Luxembourg,1995,2.633209,Luxembourg,25.07952,49.76009
+Luxembourg,1996,6.157229,Luxembourg,25.54699,49.61247
+Luxembourg,1997,,Luxembourg,26,51.85868
+Luxembourg,1998,5.260243,Luxembourg,26.36898,54.61812
+Luxembourg,1999,20.06803,Luxembourg,26.41691,58.55195
+Luxembourg,2000,,Luxembourg,26,62.63515
+Luxembourg,2001,,Luxembourg,26.95567,63.41877
+Luxembourg,2002,,Luxembourg,27.13598,64.9813
+Luxembourg,2003,15.82585,Luxembourg,27.31629,65.53675
+Luxembourg,2004,13.65696,Luxembourg,26.8,67.86391
+Luxembourg,2005,,Luxembourg,27.56765,71.1605
+Luxembourg,2006,,Luxembourg,28.12448,78.65627
+Luxembourg,2007,,Luxembourg,28.52852,86.05259
+Luxembourg,2008,10.51972,Luxembourg,28.73254,89.81401
+Netherlands,1970,40.2746,Netherlands,,19.03018
+Netherlands,1971,38.16539,Netherlands,,19.62461
+Netherlands,1972,39.07693,Netherlands,,19.93536
+Netherlands,1973,31.8306,Netherlands,25.80183,20.85844
+Netherlands,1974,43.52941,Netherlands,26.59177,21.6212
+Netherlands,1975,,Netherlands,25.6998,21.72938
+Netherlands,1976,31.74312,Netherlands,25.164,22.61169
+Netherlands,1977,33.98827,Netherlands,24.6282,23.13855
+Netherlands,1978,16.64577,Netherlands,24.91917,23.72687
+Netherlands,1979,40.59754,Netherlands,25.21015,24.04877
+Netherlands,1980,11.98091,Netherlands,25.50113,24.31951
+Netherlands,1981,24.07983,Netherlands,25.78121,23.78816
+Netherlands,1982,25.45247,Netherlands,25.89305,23.45789
+Netherlands,1983,,Netherlands,26,23.75873
+Netherlands,1984,,Netherlands,25.89667,24.21376
+Netherlands,1985,16.53752,Netherlands,25.78845,24.67585
+Netherlands,1986,25.83527,Netherlands,25.69034,25.37074
+Netherlands,1987,,Netherlands,25.6,25.78762
+Netherlands,1988,8.871366,Netherlands,25.65153,26.36517
+Netherlands,1989,15.35001,Netherlands,25.79013,27.22966
+Netherlands,1990,18.47853,Netherlands,26.20027,28.12296
+Netherlands,1991,16.17747,Netherlands,26.6,28.65704
+Netherlands,1992,8.165798,Netherlands,26.33332,29.06369
+Netherlands,1993,12.75091,Netherlands,26.03431,29.21477
+Netherlands,1994,13.97486,Netherlands,25.7,29.81877
+Netherlands,1995,7.324277,Netherlands,25.62083,30.58201
+Netherlands,1996,5.266518,Netherlands,25.39689,31.3355
+Netherlands,1997,,Netherlands,24.88045,32.56918
+Netherlands,1998,10.71399,Netherlands,24.11786,33.73667
+Netherlands,1999,13.87226,Netherlands,23.1,35.13831
+Netherlands,2000,,Netherlands,23.85152,36.34209
+Netherlands,2001,,Netherlands,24.34185,36.90542
+Netherlands,2002,12.76587,Netherlands,25.11107,36.96412
+Netherlands,2003,11.6,Netherlands,25.77343,36.96814
+Netherlands,2004,13.10495,Netherlands,26.6,37.59096
+Netherlands,2005,11.90874,Netherlands,26.74618,38.28417
+Netherlands,2006,11.62549,Netherlands,26.94876,39.62601
+Netherlands,2007,,Netherlands,27.38649,40.69115
+Netherlands,2008,14.19367,Netherlands,27.23638,41.88079
+New Zealand,1991,17.19198,New Zealand,32.984,19.23274
+New Zealand,1992,,New Zealand,33.31519,19.19707
+New Zealand,1993,,New Zealand,33.3796,20.07104
+New Zealand,1994,16.8,New Zealand,32.9218,20.863
+New Zealand,1995,,New Zealand,33.10947,21.37196
+New Zealand,1996,13.03931,New Zealand,33.1,21.72776
+New Zealand,1997,14.94157,New Zealand,33.02488,22.17789
+New Zealand,1998,14.95174,New Zealand,32.97234,22.29747
+New Zealand,1999,,New Zealand,33.23787,23.27217
+New Zealand,2000,,New Zealand,33.50341,23.65637
+New Zealand,2001,14.04887,New Zealand,33.07897,24.26259
+New Zealand,2002,,New Zealand,32.9048,25.07786
+New Zealand,2003,14.28572,New Zealand,32.73063,25.71769
+New Zealand,2004,13.60219,New Zealand,32.63707,26.32194
+New Zealand,2005,,New Zealand,32.86271,27.44748
+New Zealand,2006,14.1726,New Zealand,32.69277,27.83521
+New Zealand,2007,,New Zealand,32.52282,28.297
+New Zealand,2008,15.35394,New Zealand,32.52282,27.77768
+Norway,1965,38.21138,Norway,24.40443,14.96603
+Norway,1966,,Norway,24.46131,15.44679
+Norway,1967,,Norway,24.3889,16.36643
+Norway,1968,,Norway,24.14421,16.57919
+Norway,1969,,Norway,23.10809,17.11429
+Norway,1970,,Norway,22.07197,17.52654
+Norway,1971,,Norway,22.07197,18.4771
+Norway,1972,,Norway,,19.07006
+Norway,1973,,Norway,25.92382,19.93717
+Norway,1974,,Norway,24.87539,20.64698
+Norway,1975,,Norway,22.63518,21.57127
+Norway,1976,,Norway,22.55206,22.8142
+Norway,1977,,Norway,22.47379,23.60319
+Norway,1978,,Norway,22.39553,23.95522
+Norway,1979,,Norway,22.3,24.8479
+Norway,1980,,Norway,22.33045,25.85813
+Norway,1981,,Norway,22.34363,26.1846
+Norway,1982,5.645933,Norway,22.35682,26.28884
+Norway,1983,,Norway,22.65473,26.92325
+Norway,1984,,Norway,22.95265,28.41449
+Norway,1985,,Norway,23.06461,29.83936
+Norway,1986,,Norway,23.3,31.23864
+Norway,1987,,Norway,23.11472,31.44374
+Norway,1988,,Norway,23.03452,31.27419
+Norway,1989,,Norway,23.32606,31.69434
+Norway,1990,4.938672,Norway,23.22129,32.31739
+Norway,1991,4.059432,Norway,23.1,33.15217
+Norway,1992,3.589232,Norway,23.28523,34.11951
+Norway,1993,3.214049,Norway,23.37225,34.93631
+Norway,1994,4.312984,Norway,23.61689,36.65925
+Norway,1995,3.73281,Norway,23.8,38.09639
+Norway,1996,4.423823,Norway,23.65718,40.07336
+Norway,1997,,Norway,23.47129,42.34501
+Norway,1998,6.462141,Norway,23.33783,43.31229
+Norway,1999,,Norway,23.6708,43.74521
+Norway,2000,,Norway,25,44.81384
+Norway,2001,4.74359,Norway,23.76431,45.41099
+Norway,2002,4.930279,Norway,23.70318,45.79883
+Norway,2003,3.47175,Norway,24.44151,45.95313
+Norway,2004,4.235579,Norway,25.6,47.50984
+Norway,2005,,Norway,25.04938,48.70121
+Norway,2006,4.357996,Norway,24.63663,49.74776
+Norway,2007,4.518664,Norway,23.52019,50.95931
+Norway,2008,3.770339,Norway,22.94943,51.09468
+Philippines,1991,65.97164,Philippines,39.07135,2.022974
+Philippines,1992,,Philippines,41.76767,2.021199
+Philippines,1993,,Philippines,44.464,2.015779
+Philippines,1994,61.05087,Philippines,47.16032,2.093364
+Philippines,1995,,Philippines,46.27971,2.073888
+Philippines,1996,63.875,Philippines,45.39909,2.117904
+Philippines,1997,,Philippines,44.51847,2.226503
+Philippines,1998,46.41954,Philippines,44.6805,2.097224
+Philippines,1999,,Philippines,44.84254,2.168507
+Philippines,2000,,Philippines,45.00458,2.409536
+Philippines,2001,57.45834,Philippines,44.30581,2.290541
+Philippines,2002,,Philippines,43.60704,2.26186
+Philippines,2003,55.16667,Philippines,42.90826,2.244665
+Philippines,2004,56.16667,Philippines,42.97978,2.427545
+Philippines,2005,,Philippines,43.05129,2.461941
+Philippines,2006,55.08334,Philippines,43.12281,2.706827
+Philippines,2007,,Philippines,42.50622,2.963961
+Philippines,2008,52.43289,Philippines,41.88964,2.960955
+Poland,1990,65.58044,Poland,25.3409,7.656394
+Poland,1991,58.08893,Poland,27.01563,7.511934
+Poland,1992,45.3,Poland,27.4,7.672167
+Poland,1993,46.1,Poland,28.68075,7.98461
+Poland,1994,45.82191,Poland,30.11197,8.371572
+Poland,1995,48.8868,Poland,31.8,8.858429
+Poland,1996,,Poland,30.901,9.411006
+Poland,1997,35.6536,Poland,30.34353,10.03804
+Poland,1998,,Poland,29.55106,10.51354
+Poland,1999,45.59085,Poland,28.9,11.0126
+Poland,2000,,Poland,28.63375,11.47717
+Poland,2001,0.5016892,Poland,28.49682,11.67595
+Poland,2002,45.63565,Poland,29.29213,11.89387
+Poland,2003,42.44323,Poland,30.47084,12.35476
+Poland,2004,55.76208,Poland,32,13.02981
+Poland,2005,49.92252,Poland,31.35653,13.48146
+Poland,2006,52.03202,Poland,30.84744,14.31515
+Poland,2007,,Poland,30.12889,15.24907
+Poland,2008,48.12402,Poland,29.67896,16.03624
+Poland,2009,,Poland,29.36544,16.37604
+Poland,2010,34.61231,Poland,29.70926,17.341
+Portugal,1988,16.8,Portugal,30.14223,13.44767
+Portugal,1989,27.45,Portugal,30.0646,14.04437
+Portugal,1990,38.18587,Portugal,30.50868,14.88476
+Portugal,1991,35.96667,Portugal,30.00949,15.28318
+Portugal,1992,15.975,Portugal,31.11007,15.49997
+Portugal,1993,20.76667,Portugal,32.21065,15.21322
+Portugal,1994,33.41114,Portugal,33.31123,15.69948
+Portugal,1995,7.139959,Portugal,34.43436,15.95646
+Portugal,1996,10.37579,Portugal,34.4134,16.47781
+Portugal,1997,,Portugal,35.03737,17.16529
+Portugal,1998,9.996668,Portugal,35.06076,17.99095
+Portugal,1999,33.51925,Portugal,35.28036,18.63472
+Portugal,2000,,Portugal,35.36594,19.23644
+Portugal,2001,,Portugal,35.68575,19.51534
+Portugal,2002,29.36288,Portugal,35.8662,19.50177
+Portugal,2003,,Portugal,36.04665,19.17743
+Portugal,2004,25.46816,Portugal,36.2271,19.38357
+Portugal,2005,29.67197,Portugal,35.92988,20.09714
+Portugal,2006,26.94611,Portugal,35.80585,20.35299
+Portugal,2007,28.27775,Portugal,35.24136,20.7002
+Portugal,2008,32.2937,Portugal,34.50393,20.65045
+Portugal,2009,24.19883,Portugal,34.03071,19.90401
+Russian Federation,1990,1.835798,Russian Federation,24.52098,
+Russian Federation,1991,,Russian Federation,33.12328,
+Russian Federation,1992,,Russian Federation,39.5,
+Russian Federation,1993,,Russian Federation,40.35846,9.610088
+Russian Federation,1994,1.96802,Russian Federation,42.32419,8.587098
+Russian Federation,1995,2.066929,Russian Federation,44.7,8.237411
+Russian Federation,1996,1.194645,Russian Federation,43.19522,7.939121
+Russian Federation,1997,,Russian Federation,42.11716,8.023545
+Russian Federation,1998,3.496082,Russian Federation,41.92956,7.558069
+Russian Federation,1999,3.431571,Russian Federation,42.21541,7.887659
+Russian Federation,2000,,Russian Federation,43.4,8.720241
+Russian Federation,2001,1.75,Russian Federation,42.1549,9.266723
+Russian Federation,2002,,Russian Federation,41.26719,9.817822
+Russian Federation,2003,2.266051,Russian Federation,41.13657,10.60468
+Russian Federation,2004,,Russian Federation,40.50536,11.582
+Russian Federation,2005,,Russian Federation,41.62699,12.35683
+Russian Federation,2006,4.157559,Russian Federation,42.82534,13.331
+Russian Federation,2007,2.313625,Russian Federation,44.16152,14.49569
+Russian Federation,2008,5.813954,Russian Federation,45.10535,15.3169
+Russian Federation,2009,3.511827,Russian Federation,45.23852,14.64534
+Slovak Republic,1990,33.33334,Slovak Republic,16.87267,11.96101
+Slovak Republic,1991,31.74603,Slovak Republic,17.89795,9.666917
+Slovak Republic,1992,,Slovak Republic,18.9,8.755487
+Slovak Republic,1993,,Slovak Republic,18.93863,9.480782
+Slovak Republic,1994,,Slovak Republic,20.65895,9.897739
+Slovak Republic,1995,,Slovak Republic,22.37928,10.57628
+Slovak Republic,1996,29.61095,Slovak Republic,24.1,11.99349
+Slovak Republic,1997,,Slovak Republic,23.57128,12.66629
+Slovak Republic,1998,32.4553,Slovak Republic,23.48035,13.23056
+Slovak Republic,1999,40.46722,Slovak Republic,23.3416,12.93266
+Slovak Republic,2000,,Slovak Republic,24.14499,13.04495
+Slovak Republic,2001,,Slovak Republic,25.01091,13.46368
+Slovak Republic,2002,,Slovak Republic,25.52836,14.1079
+Slovak Republic,2003,,Slovak Republic,25.86116,14.67225
+Slovak Republic,2004,32.56873,Slovak Republic,24.95677,15.25361
+Slovak Republic,2005,,Slovak Republic,24.32799,16.20026
+Slovak Republic,2006,30.77381,Slovak Republic,23.34364,17.55118
+Slovak Republic,2007,,Slovak Republic,23.20266,19.4951
+Slovak Republic,2008,36.15197,Slovak Republic,23.30379,20.7534
+Slovenia,1992,22.83771,Slovenia,22.42397,13.08737
+Slovenia,1993,13.77246,Slovenia,24.02414,13.79941
+Slovenia,1994,15.63707,Slovenia,24.01808,14.58851
+Slovenia,1995,18.05561,Slovenia,24.78695,15.43332
+Slovenia,1996,,Slovenia,24.88575,15.96048
+Slovenia,1997,,Slovenia,25,16.73496
+Slovenia,1998,13.13942,Slovenia,24.95596,17.37243
+Slovenia,1999,17.18908,Slovenia,24.9,18.37183
+Slovenia,2000,12.07057,Slovenia,24.75473,19.1024
+Slovenia,2001,,Slovenia,24.57369,19.64876
+Slovenia,2002,19.33702,Slovenia,24.16372,20.36728
+Slovenia,2003,17.01738,Slovenia,23.68308,20.9894
+Slovenia,2004,15.35225,Slovenia,23.1,21.97127
+Slovenia,2005,18.61386,Slovenia,23.20641,23.27384
+Slovenia,2006,16.8553,Slovenia,23.25162,24.71943
+Slovenia,2007,,Slovenia,23.0877,26.59309
+Slovenia,2008,16.5725,Slovenia,23.50109,27.59985
+Slovenia,2009,15.56829,Slovenia,23.42101,24.95571
+Spain,1981,40.07816,Spain,31.13763,15.34671
+Spain,1982,,Spain,30.47638,15.43841
+Spain,1983,,Spain,29.81512,15.59377
+Spain,1984,,Spain,29.15387,15.75522
+Spain,1985,,Spain,28.49262,16.06936
+Spain,1986,,Spain,26.24279,16.57582
+Spain,1987,,Spain,26.26561,17.48757
+Spain,1988,14.53202,Spain,25.85028,18.36113
+Spain,1989,19.675,Spain,27.54474,19.24877
+Spain,1990,28.50191,Spain,30.3,19.93801
+Spain,1991,25.65811,Spain,31.55687,20.40846
+Spain,1992,12.52174,Spain,32.81472,20.55413
+Spain,1993,17.14097,Spain,34.07258,20.20958
+Spain,1994,26.02193,Spain,34.49824,20.65674
+Spain,1995,16.87484,Spain,35.3,21.22941
+Spain,1996,10.36667,Spain,34.49912,21.71911
+Spain,1997,,Spain,33.99157,22.54224
+Spain,1998,16.52073,Spain,33.49253,23.60496
+Spain,1999,25.54622,Spain,33.25416,24.76664
+Spain,2000,25.70952,Spain,33.6,25.6275
+Spain,2001,14.5799,Spain,32.74773,26.2728
+Spain,2002,21.44997,Spain,32.41159,26.61118
+Spain,2003,15.0165,Spain,31.99993,27.00559
+Spain,2004,18.50669,Spain,31.5,27.45337
+Spain,2005,,Spain,31.4153,27.98383
+Spain,2006,18.34812,Spain,31.23683,28.61848
+Spain,2007,15.43403,Spain,31.38,29.13347
+Spain,2008,18.27628,Spain,31.69269,28.96208
+Sweden,1982,5.689278,Sweden,20.07765,22.54037
+Sweden,1983,,Sweden,20.24996,22.75705
+Sweden,1984,,Sweden,20.73718,23.57017
+Sweden,1985,,Sweden,21.02475,24.09541
+Sweden,1986,,Sweden,21.21961,24.71537
+Sweden,1987,,Sweden,21.8,25.4625
+Sweden,1988,,Sweden,20.96565,25.95969
+Sweden,1989,,Sweden,20.81441,26.50009
+Sweden,1990,4.251208,Sweden,20.96564,26.52133
+Sweden,1991,,Sweden,21.90353,26.14948
+Sweden,1992,,Sweden,22.9,25.72291
+Sweden,1993,,Sweden,22.98999,25.08644
+Sweden,1994,3.655564,Sweden,22.75058,25.75409
+Sweden,1995,2.656006,Sweden,22.1,26.50851
+Sweden,1996,2.737377,Sweden,21.87891,26.80896
+Sweden,1997,,Sweden,21.55568,27.29946
+Sweden,1998,3.157082,Sweden,22.16239,28.273
+Sweden,1999,3.751234,Sweden,23.2751,29.50166
+Sweden,2000,,Sweden,25.2,30.64542
+Sweden,2001,,Sweden,23.28172,30.9133
+Sweden,2002,4.604919,Sweden,22.20831,31.60808
+Sweden,2003,3.709949,Sweden,22.02411,32.13654
+Sweden,2004,3.752497,Sweden,22.60609,33.38173
+Sweden,2005,,Sweden,23.7,34.85532
+Sweden,2006,3.608122,Sweden,23.19807,36.22499
+Sweden,2007,,Sweden,23.14372,37.35868
+Sweden,2008,3.786042,Sweden,22.39175,37.23148
+Turkey,1990,34.70993,Turkey,43.78515,6.886123
+Turkey,1991,,Turkey,43.84642,6.856885
+Turkey,1992,,Turkey,43.9077,7.058028
+Turkey,1993,,Turkey,43.96897,7.564857
+Turkey,1994,,Turkey,44.03025,7.009102
+Turkey,1995,,Turkey,43.78195,7.352484
+Turkey,1996,41.85884,Turkey,43.53365,7.808237
+Turkey,1997,,Turkey,43.28536,8.293542
+Turkey,1998,,Turkey,43.03706,8.374465
+Turkey,1999,,Turkey,42.78876,8.004363
+Turkey,2000,,Turkey,42.54047,8.39064
+Turkey,2001,35.9779,Turkey,43.14237,7.815842
+Turkey,2002,,Turkey,43.74427,8.141171
+Turkey,2003,,Turkey,43.23184,8.465138
+Turkey,2004,,Turkey,42.50201,9.121868
+Turkey,2005,,Turkey,40.96178,9.721685
+Turkey,2006,32.07763,Turkey,39.75309,10.21403
+Turkey,2007,34.2922,Turkey,38.63189,10.54949
+Turkey,2008,48.03198,Turkey,37.93648,10.45378
+Turkey,2009,36.41092,Turkey,37.47118,9.920336
+Ukraine,1996,10.1173,Ukraine,37.50008,3.62867
+Ukraine,1997,,Ukraine,34.68766,3.585413
+Ukraine,1998,,Ukraine,35.06689,3.604581
+Ukraine,1999,9.560068,Ukraine,32.9558,3.684573
+Ukraine,2000,,Ukraine,32.69234,3.92089
+Ukraine,2001,,Ukraine,30.18839,4.30407
+Ukraine,2002,,Ukraine,28.61008,4.60929
+Ukraine,2003,,Ukraine,28.03949,5.080461
+Ukraine,2004,,Ukraine,27.73234,5.766989
+Ukraine,2005,11.38539,Ukraine,28.31509,6.02929
+Ukraine,2006,11.56368,Ukraine,28.87717,6.532008
+Ukraine,2007,,Ukraine,29.49219,7.123497
+Ukraine,2008,10.38317,Ukraine,29.49219,7.363984
+Ukraine,2009,15.0723,Ukraine,,6.415035
+United Kingdom,1964,17.29634,United Kingdom,27.21905,14.08338
+United Kingdom,1965,,United Kingdom,26.71001,14.36462
+United Kingdom,1966,16.98218,United Kingdom,26.51043,14.56826
+United Kingdom,1967,,United Kingdom,26.07025,14.88621
+United Kingdom,1968,,United Kingdom,26.3975,15.31397
+United Kingdom,1969,,United Kingdom,26.7,15.49859
+United Kingdom,1970,17.51152,United Kingdom,27.15206,15.838
+United Kingdom,1971,,United Kingdom,27.50823,16.20358
+United Kingdom,1972,,United Kingdom,27.60308,16.73622
+United Kingdom,1973,14.95085,United Kingdom,27.22294,17.89313
+United Kingdom,1974,,United Kingdom,26.8,17.74563
+United Kingdom,1975,6.971375,United Kingdom,26.29325,17.67344
+United Kingdom,1976,13.32371,United Kingdom,25.90159,18.18309
+United Kingdom,1977,14.88287,United Kingdom,25.7498,18.2892
+United Kingdom,1978,7.881463,United Kingdom,26.25385,18.92794
+United Kingdom,1979,17.73319,United Kingdom,27,19.45203
+United Kingdom,1980,6.334644,United Kingdom,26.88468,19.13953
+United Kingdom,1981,9.219868,United Kingdom,26.93648,18.96519
+United Kingdom,1982,,United Kingdom,27.01333,19.23214
+United Kingdom,1983,20.65942,United Kingdom,27.15075,19.90876
+United Kingdom,1984,,United Kingdom,27.7493,20.35255
+United Kingdom,1985,12.53469,United Kingdom,28.80565,20.96957
+United Kingdom,1986,19.8895,United Kingdom,30.3,21.77697
+United Kingdom,1987,21.06216,United Kingdom,30.57954,22.66972
+United Kingdom,1988,10.91752,United Kingdom,31.23281,23.81822
+United Kingdom,1989,11.74053,United Kingdom,31.97666,24.31211
+United Kingdom,1990,12.67835,United Kingdom,32.7766,24.44105
+United Kingdom,1991,13.41619,United Kingdom,33.6,24.0929
+United Kingdom,1992,5.521181,United Kingdom,34.00853,24.09588
+United Kingdom,1993,6.625,United Kingdom,34.12457,24.55346
+United Kingdom,1994,12.19631,United Kingdom,33.9,25.4499
+United Kingdom,1995,7.323492,United Kingdom,34.4,26.14622
+United Kingdom,1996,7.961812,United Kingdom,34.00642,26.82811
+United Kingdom,1997,,United Kingdom,33.76928,27.582
+United Kingdom,1998,9.100753,United Kingdom,34.24042,28.4537
+United Kingdom,1999,14.45905,United Kingdom,34.7,29.2383
+United Kingdom,2000,,United Kingdom,34.18522,30.23461
+United Kingdom,2001,11.62281,United Kingdom,33.74158,30.83877
+United Kingdom,2002,13.30665,United Kingdom,33.90489,31.38227
+United Kingdom,2003,11.22566,United Kingdom,34.14275,32.33566
+United Kingdom,2004,12.45441,United Kingdom,34.5,33.22192
+United Kingdom,2005,,United Kingdom,34.60025,34.18302
+United Kingdom,2006,13.47693,United Kingdom,34.79011,34.95763
+United Kingdom,2007,,United Kingdom,35.07567,35.64901
+United Kingdom,2008,14.52543,United Kingdom,35.60283,35.44104
+United States,1964,43.46821,United States,33.78617,17.46341
+United States,1965,,United States,33.62405,18.36377
+United States,1966,39.82853,United States,33.39343,19.27757
+United States,1967,37,United States,32.65569,19.52206
+United States,1968,38.80415,United States,31.94558,20.32292
+United States,1969,,United States,31.08574,20.76354
+United States,1970,39.37857,United States,31.07847,20.50848
+United States,1971,,United States,30.95663,20.93765
+United States,1972,33.92382,United States,31.64168,21.84716
+United States,1973,31.88919,United States,31.6464,22.83531
+United States,1974,32.87292,United States,31.8,22.48635
+United States,1975,32.62011,United States,31.3691,22.2615
+United States,1976,29.80943,United States,31.10631,23.26204
+United States,1977,32.4243,United States,30.85233,24.10796
+United States,1978,28.93272,United States,30.58937,25.12849
+United States,1979,,United States,30.1,25.57192
+United States,1980,29.66347,United States,30.51383,25.11421
+United States,1981,31.5,United States,30.71185,25.46784
+United States,1982,33.21072,United States,31.00775,24.88715
+United States,1983,34.09856,United States,31.30047,25.87177
+United States,1984,31.44798,United States,31.81295,27.51381
+United States,1985,34.95303,United States,32.50838,28.42727
+United States,1986,31.59406,United States,33.5,29.15574
+United States,1987,31.32034,United States,33.25134,29.84623
+United States,1988,28.21757,United States,33.23913,30.73838
+United States,1989,32.18586,United States,33.39031,31.48085
+United States,1990,33.77938,United States,33.57018,31.67965
+United States,1991,31.36149,United States,33.8,31.15323
+United States,1992,26.76056,United States,34.44816,31.78093
+United States,1993,28.39352,United States,35.02684,32.26448
+United States,1994,29.3604,United States,35.5,33.21826
+United States,1995,43.95819,United States,36.24384,33.70082
+United States,1996,27.16699,United States,37,34.59201
+United States,1997,31,United States,37.2,35.78993
+United States,1998,26.88536,United States,37.09401,36.92394
+United States,1999,42.58013,United States,36.97413,38.17455
+United States,2000,25.37684,United States,36.8,39.15974
+United States,2001,30,United States,36.98793,38.96044
+United States,2002,26.64357,United States,37.09895,39.15404
+United States,2003,31,United States,37.16354,39.79302
+United States,2004,25.05188,United States,37.2,40.91001
+United States,2005,31.4252,United States,37.08701,42.53482
+United States,2006,29.70013,United States,36.8789,43.2584
+United States,2007,,United States,36.35387,43.69746
+United States,2008,26.67819,United States,36.02488,43.34071
