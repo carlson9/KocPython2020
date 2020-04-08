@@ -2,4 +2,4 @@
 
 # Homework 2 Due before class March 11
 
-# Homework 3 Due before class April 15
+# Homework 3 Due before class April 22
