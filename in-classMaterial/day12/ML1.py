@@ -193,11 +193,11 @@ y2_model = model.fit(X1, y1).predict(X2)
 y1_model = model.fit(X2, y2).predict(X1)
 accuracy_score(y1, y1_model), accuracy_score(y2, y2_model)
 #more than 2 sets
-from sklearn.cross_validation import cross_val_score
+from sklearn.model_selection import cross_val_score
 cross_val_score(model, X, y, cv=5)
 
 #loo
-from sklearn.cross_validation import LeaveOneOut
+from sklearn.model_selection import LeaveOneOut
 scores = cross_val_score(model, X, y, cv=LeaveOneOut(len(X)))
 scores
 
